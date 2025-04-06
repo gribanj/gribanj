@@ -51,3 +51,5 @@ $data = $data.replace("{psTime}", $psTime)
 $data = $data.replace("{todayDay}", $todayDay)
 
 $data | Set-Content -Encoding utf8 ./chat.svg
+
+# $data | Out-File -FilePath ./chat.svg -Encoding utf8
