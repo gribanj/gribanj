@@ -10,6 +10,8 @@ The below is built using my custom [build-svg.ps1](https://github.com/gribanj/gr
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gribanj&show_icons=true&theme=merko)
 
+<br/>
+
 ---
 
 <!-- (Add or remove any sections below to fit your content) -->
