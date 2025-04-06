@@ -4,7 +4,7 @@
 
 [![Daily Chat Status](https://raw.githubusercontent.com/gribanj/gribanj/main/chat.svg)](#)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gribanj&show_icons=true&theme=merko)
+![GitHub Commits](https://github-readme-stats.vercel.app/api?username=gribanj&count_private=true&hide=prs,issues,contribs&show_icons=true&theme=merko)
 
 ---
 
