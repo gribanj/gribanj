@@ -29,7 +29,6 @@
   <summary>⚡ Expand me</summary>
 
 <!--START_SECTION:waka-->
-<!-- WakaTime stats will be updated here -->
 <!--END_SECTION:waka-->
 
 </details>
