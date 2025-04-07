@@ -54,6 +54,6 @@ jobs:
 
     steps:
       - name: Update WakaTime stats in README
-        uses: athul/waka-readme@v0.1.3
+        uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
