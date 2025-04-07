@@ -25,16 +25,6 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/gribanj/gribanj/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/gribanj/gribanj/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-<details>
-  <summary>⚡ Expand me</summary>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-</details>
-
----
-
 ## A Bit About Me
 
 - I’m a DevOps/SRE/Cloud Engineer.
@@ -56,5 +46,16 @@
 | Deployment          | ![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps_Pipelines-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) |
 | Metrics & Analytics | ![Graylog](https://img.shields.io/badge/Graylog-6C6C6C?style=for-the-badge&logo=graylog&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) ![Uptime Kuma](https://img.shields.io/badge/Uptime_Kuma-52796F?style=for-the-badge&logo=uptimekuma&logoColor=white)                                                                                                                                                                             |
 | Other               | ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white) ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white) ![tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white) ![Nushell](https://img.shields.io/badge/Nushell-4B275F?style=for-the-badge&logo=gnu-bash&logoColor=white)                                                                                          |
+
+<details>
+  <summary>⚡ Expand me</summary>
+![GitHub Commits](https://github-readme-stats.vercel.app/api?username=gribanj&count_private=true&hide=prs,issues,contribs,stars&show_icons=true&theme=merko)
+💼 Opted to Hire 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</details>
+
+---
 
 > This README updates automatically every day at 4am — powered by [build-svg.ps1](https://github.com/gribanj/gribanj/blob/main/build-svg.ps1) and a [GitHub Action workflow](https://github.com/gribanj/gribanj/blob/main/.github/workflows/readme.yml).
