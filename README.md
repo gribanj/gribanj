@@ -29,7 +29,11 @@
   <summary>⚡ Expand me</summary>
 
 <!--START_SECTION:waka-->
-<!-- WakaTime stats will be updated here -->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 </details>
