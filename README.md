@@ -41,48 +41,12 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 50 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 10 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                3 commits           █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-🌆 Daytime                1 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-🌃 Evening                9 commits           ███████████████░░░░░░░░░░   60.00 % 
-🌙 Night                  2 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   3 commits           █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Tuesday                  2 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Thursday                 4 commits           ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-Friday                   3 commits           █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   3 commits           █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in HCL** 
 
 ```text
@@ -93,7 +57,7 @@ PowerShell               1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 07/04/2025 03:59:47 UTC
+ Last Updated on 07/04/2025 04:00:14 UTC
 <!--END_SECTION:waka-->
 
 </details>
