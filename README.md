@@ -48,18 +48,6 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-841%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 50 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 10 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
 **I'm a Night 🦉** 
 
 ```text
@@ -104,7 +92,7 @@ PowerShell               1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 07/04/2025 02:22:35 UTC
+ Last Updated on 07/04/2025 02:22:51 UTC
 <!--END_SECTION:waka-->
 
 </details>
