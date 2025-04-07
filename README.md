@@ -41,8 +41,6 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 50 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 10 Public Repositories 
@@ -93,7 +91,7 @@ PowerShell               1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 07/04/2025 09:22:47 UTC
+ Last Updated on 07/04/2025 09:23:16 UTC
 <!--END_SECTION:waka-->
 
 </details>
