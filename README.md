@@ -37,62 +37,65 @@
 | Metrics & Analytics | ![Graylog](https://img.shields.io/badge/Graylog-6C6C6C?style=for-the-badge&logo=graylog&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) ![Uptime Kuma](https://img.shields.io/badge/Uptime_Kuma-52796F?style=for-the-badge&logo=uptimekuma&logoColor=white)                                                                                                                                                                             |
 | Other               | ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white) ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white) ![tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white) ![Nushell](https://img.shields.io/badge/Nushell-4B275F?style=for-the-badge&logo=gnu-bash&logoColor=white)                                                                                          |
 
+## 🚀 Github Stats
+
 ![github contribution grid snake animation](https://raw.githubusercontent.com/gribanj/gribanj/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/gribanj/gribanj/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <details>
-  <summary>⚡ Expand me</summary>
-💼 Opted to Hire
+  <summary>:zap: Expand me</summary>
+
+![gribanj's GitHub stats](https://github-readme-stats.vercel.app/api?username=gribanj&show_icons=true&hide_border=true&hide=contribs,prs&theme=dark "gribanj's GitHub stats")
+
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-841%20lines%20of%20code-blue)
 
-**I'm a Night 🦉** 
+**I'm a Night 🦉**
 
 ```text
-🌞 Morning                3 commits           █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-🌆 Daytime                1 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-🌃 Evening                9 commits           ███████████████░░░░░░░░░░   60.00 % 
-🌙 Night                  2 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   3 commits           █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Tuesday                  2 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Thursday                 4 commits           ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-Friday                   3 commits           █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   3 commits           █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+🌞 Morning                3 commits           █████░░░░░░░░░░░░░░░░░░░░   20.00 %
+🌆 Daytime                1 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
+🌃 Evening                9 commits           ███████████████░░░░░░░░░░   60.00 %
+🌙 Night                  2 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.33 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📅 **I'm Most Productive on Thursday**
 
 ```text
-💬 Programming Languages: 
+Monday                   3 commits           █████░░░░░░░░░░░░░░░░░░░░   20.00 %
+Tuesday                  2 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.33 %
+Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Thursday                 4 commits           ███████░░░░░░░░░░░░░░░░░░   26.67 %
+Friday                   3 commits           █████░░░░░░░░░░░░░░░░░░░░   20.00 %
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Sunday                   3 commits           █████░░░░░░░░░░░░░░░░░░░░   20.00 %
+```
+
+📊 **This Week I Spent My Time On**
+
+```text
+💬 Programming Languages:
 No Activity Tracked This Week
 
-🔥 Editors: 
+🔥 Editors:
 No Activity Tracked This Week
 
-💻 Operating System: 
+💻 Operating System:
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in HCL** 
+**I Mostly Code in HCL**
 
 ```text
-HCL                      5 repos             █████████████████████░░░░   83.33 % 
-PowerShell               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+HCL                      5 repos             █████████████████████░░░░   83.33 %
+PowerShell               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 %
 ```
 
+Last Updated on 07/04/2025 02:23:49 UTC
 
-
-
- Last Updated on 07/04/2025 02:23:49 UTC
 <!--END_SECTION:waka-->
 
 </details>
