@@ -1,4 +1,4 @@
-## Never spend 6 minutes doing something by hand when you can spend 6 hours failing to automate it 👷 (Zhuowei Zhang)
+<!-- ## Never spend 6 minutes doing something by hand when you can spend 6 hours failing to automate it 👷 (Zhuowei Zhang)
 
 > This README updates automatically every day at 4am — powered by [build-svg.ps1](https://github.com/gribanj/gribanj/blob/main/build-svg.ps1) and a [GitHub Action workflow](https://github.com/gribanj/gribanj/blob/main/.github/workflows/readme.yml).
 
@@ -14,11 +14,25 @@
 - I love tackling new challenges and exploring technology.
 - I use automation to stay on top of technical debt and free up bandwidth for innovation.
 
+---
+
+### 🧰 Tech Stack -->
+
 ## Never spend 6 minutes doing something by hand when you can spend 6 hours failing to automate it 👷 (Zhuowei Zhang)
 
 > This README updates automatically every day at 4am — powered by [build-svg.ps1](https://github.com/gribanj/gribanj/blob/main/build-svg.ps1) and a [GitHub Action workflow](https://github.com/gribanj/gribanj/blob/main/.github/workflows/readme.yml).
 
 [![Daily Chat Status](https://raw.githubusercontent.com/gribanj/gribanj/main/chat.svg)](#)
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/gribanj/gribanj/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/gribanj/gribanj/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+<details>
+  <summary>⚡ Expand me</summary>
+
+<!-- GitHub Stats or WakaTime goes here in next step -->
+
+</details>
 
 ---
 
