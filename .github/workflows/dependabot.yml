@@ -1,0 +1,36 @@
+version: 2
+updates:
+  # -------------------------------------------------------------------------- #
+  #                  G i t H u b   A c t i o n s   D e p e n d e n c i e s
+  # -------------------------------------------------------------------------- #
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    ignore:
+      - dependency-name: "actions/checkout"
+        versions: ["3.x"] # Ignore updates within major version 3
+      - dependency-name: "EndBug/add-and-commit"
+        versions: ["4.x"] # Ignore updates within major version 4
+      - dependency-name: "Platane/snk"
+        versions: ["3.x"]
+      - dependency-name: "crazy-max/ghaction-github-pages"
+        versions: ["3.x"]
+      - dependency-name: "anmol098/waka-readme-stats"
+        versions: ["master"]
+
+  # -------------------------------------------------------------------------- #
+  #                     N P M   D e p e n d e n c i e s   ( i f   a n y )
+  # -------------------------------------------------------------------------- #
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+
+  # -------------------------------------------------------------------------- #
+  #                     D o c k e r   D e p e n d e n c i e s   ( i f   a n y )
+  # -------------------------------------------------------------------------- #
+  - package-ecosystem: "docker"
+    directory: "/"
+    schedule:
+      interval: "weekly"

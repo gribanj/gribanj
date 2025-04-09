@@ -1,4 +1,9 @@
+# ============================================================================ #
+#                          U p d a t e   R e a d m e   a n d   S t a t s
+# ============================================================================ #
+
 name: Update Readme and Stats
+
 on:
   push:
     branches:
@@ -7,19 +12,29 @@ on:
     - cron: "0 4 * * *"
   workflow_dispatch:
 
+# ============================================================================ #
+#                                   J o b s
+# ============================================================================ #
+
 jobs:
+  # -------------------------------------------------------------------------- #
+  #                                R e a d m e
+  # -------------------------------------------------------------------------- #
   readme:
     runs-on: ubuntu-latest
 
     steps:
+      # Step 1: C h e c k o u t   r e p o s i t o r y
       - uses: actions/checkout@v3
 
+      # Step 2: G e n e r a t e   R e a d m e
       - name: Generate readme
         env:
           WEATHER_API_KEY: ${{ secrets.WEATHER_API_KEY }}
         shell: pwsh
         run: . ./build-svg.ps1
 
+      # Step 3: C o m m i t   c h a n g e s
       - name: Commit changes
         uses: EndBug/add-and-commit@v4
         with:
@@ -30,9 +45,14 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+  # -------------------------------------------------------------------------- #
+  #                                S n a k e
+  # -------------------------------------------------------------------------- #
   snake:
     runs-on: ubuntu-latest
+
     steps:
+      # Step 1: G e n e r a t e   c o n t r i b u t i o n   s n a k e   S V G
       - name: Generate contribution snake SVG
         uses: Platane/snk/svg-only@v3
         with:
@@ -41,6 +61,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      # Step 2: P u s h   s n a k e   S V G   t o   o u t p u t   b r a n c h
       - name: Push snake SVG to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
@@ -49,10 +70,15 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+  # -------------------------------------------------------------------------- #
+  #                        W a k a T i m e   S t a t s
+  # -------------------------------------------------------------------------- #
   wakatime:
     name: Update WakaTime Stats
     runs-on: ubuntu-latest
+
     steps:
+      # Step 1: U p d a t e   W a k a T i m e   s t a t s
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
