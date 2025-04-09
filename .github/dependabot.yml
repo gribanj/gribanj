@@ -9,9 +9,9 @@ updates:
       interval: "weekly"
     ignore:
       - dependency-name: "actions/checkout"
-        versions: ["3.x"] # Ignore updates within major version 3
+        versions: ["3.x"]
       - dependency-name: "EndBug/add-and-commit"
-        versions: ["4.x"] # Ignore updates within major version 4
+        versions: ["4.x"]
       - dependency-name: "Platane/snk"
         versions: ["3.x"]
       - dependency-name: "crazy-max/ghaction-github-pages"
