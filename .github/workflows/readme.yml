@@ -21,6 +21,7 @@ jobs:
   #                                R e a d m e
   # -------------------------------------------------------------------------- #
   readme:
+    if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
 
     steps:
@@ -74,6 +75,7 @@ jobs:
   #                        W a k a T i m e   S t a t s
   # -------------------------------------------------------------------------- #
   wakatime:
+    if: github.actor != 'github-actions[bot]'
     name: Update WakaTime Stats
     runs-on: ubuntu-latest
 
