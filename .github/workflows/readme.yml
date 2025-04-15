@@ -4,10 +4,17 @@
 
 name: Update Readme and Stats
 
+permissions:
+  contents: write
+  actions: read
+
 on:
   push:
     branches:
       - main
+    paths-ignore:
+      - "README.md"
+      - "*.svg"
   schedule:
     - cron: "0 4 * * *"
   workflow_dispatch:
