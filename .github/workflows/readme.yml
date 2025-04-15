@@ -97,3 +97,39 @@ jobs:
           SHOW_SHORT_INFO: "True"
           SHOW_LOC_CHART: "False"
           LOCALE: en
+
+  # -------------------------------------------------------------------------- #
+  #                                C I / C D
+  # -------------------------------------------------------------------------- #
+  ci_cd:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: C h e c k o u t   r e p o s i t o r y
+      - uses: actions/checkout@v3
+
+      # Step 2: S e t u p   N o d e . j s
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "16"
+
+      # Step 3: I n s t a l l   d e p e n d e n c i e s
+      - name: Install dependencies
+        run: npm install
+
+      # Step 4: R u n   t e s t s
+      - name: Run tests
+        run: npm test
+
+      # Step 5: B u i l d   p r o j e c t
+      - name: Build project
+        run: npm run build
+
+      # Step 6: Deploy to Production
+      - name: Deploy to Production
+        if: github.ref == 'refs/heads/main'
+        run: |
+          echo "Starting deployment..."
+          # Add deployment commands here, e.g., AWS CLI, Terraform, or custom scripts
+          echo "Deployment completed successfully."
