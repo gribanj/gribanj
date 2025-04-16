@@ -30,25 +30,16 @@
 </a>
 
 <details>
-  <summary>:zap: Expand me</summary>
+  <summary>:zap: GitHub Profile Details</summary>
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+## 📊 My GitHub Activity
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-846%20lines%20of%20code-blue)
+### 📂 Repository Statistics
+- **Public Repositories:** 10
+- **Private Repositories:** 0
+- **Total Repositories:** 10
 
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 64 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 10 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
+### 💻 Coding Activity
 **I'm a Night 🦉** 
 
 ```text
@@ -57,6 +48,7 @@
 🌃 Evening                9 commits           ████████████░░░░░░░░░░░░░   50.00 % 
 🌙 Night                  4 commits           ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
 ```
+
 📅 **I'm Most Productive on Thursday** 
 
 ```text
@@ -69,19 +61,7 @@ Saturday                 0 commits           ░░░░░░░░░░░�
 Sunday                   3 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
+### 🔥 Language Distribution
 
 **I Mostly Code in HCL** 
 
@@ -90,12 +70,7 @@ HCL                      5 repos             ███████████�
 PowerShell               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 ```
 
-
-
-
- Last Updated on 15/04/2025 23:23:04 UTC
-<!--END_SECTION:waka-->
-
+Last Updated on April 16, 2025
 </details>
 
 ---
