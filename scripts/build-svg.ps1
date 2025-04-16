@@ -33,6 +33,7 @@ $emojis = @{
 }
 
 $url = "http://dataservice.accuweather.com/forecasts/v1/daily/1day/$($locationKey)?apikey=$($key)"
+
 $r = Invoke-RestMethod $url
 
 $target = $r.DailyForecasts[0]
@@ -42,7 +43,9 @@ $icon = $emojis[[int]$target.Day.Icon]
 $psTime = (get-date).year - (get-date "7/1/2008").year 
 $todayDay = (get-date).DayOfWeek
 
-$data = Get-Content -Raw ./template.svg
+# Update path to template.svg - look in the assets directory
+$templatePath = Join-Path -Path $PSScriptRoot -ChildPath "../assets/template.svg"
+$data = Get-Content -Raw $templatePath
 
 $data = $data.replace("{degF}", $degF)
 $data = $data.replace("{degC}", $degC)
@@ -50,6 +53,8 @@ $data = $data.replace("{weatherEmoji}", $icon)
 $data = $data.replace("{psTime}", $psTime)
 $data = $data.replace("{todayDay}", $todayDay)
 
-$data | Set-Content -Encoding utf8 ./chat.svg
+# Update output path to use full path
+$outputPath = Join-Path -Path $PSScriptRoot -ChildPath "../assets/chat.svg"
+$data | Set-Content -Encoding utf8 $outputPath
 
 # $data | Out-File -FilePath ./chat.svg -Encoding utf8
